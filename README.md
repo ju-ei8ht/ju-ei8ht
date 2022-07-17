@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Juyoung&fontSize=50&fontAlign=15&fontAlignY=40&desc=Back-End%20Developer&descSize=25&descAlign=43&descAlignY=45&fontColor=000&animation=fadeIn)
 
+### 😎 Introduce   
+Hi! My name is JUYOUNG. I've worked as a Web Designer since 2014, and Now I am studying Java Spring to become a Backend Developer.
+
 #### ✨ Blog
 <a href="https://ju-ei8ht.github.io/"><img src="https://img.shields.io/badge/GitHubPages-222222?style=flat-square&logo=GitHubPages&logoColor=ffffff"/></a>
 
