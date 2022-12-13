@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Juyoung&fontSize=50&fontAlign=15&fontAlignY=40&desc=Back-End%20Developer&descSize=25&descAlign=43&descAlignY=45&fontColor=000&animation=fadeIn)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ju-ei8ht"/>
-
 ### 😎 Introduce   
 Hi! My name is JUYOUNG.   
 I've worked as a Web Designer since 2014, Now I'm studying Java Spring to become a Backend Developer.
